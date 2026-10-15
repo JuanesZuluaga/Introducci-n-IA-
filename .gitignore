@@ -1,0 +1,26 @@
+/Info/*
+/Books/*
+/clases/*
+/Docs/*
+
+# Datos y modelos
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.h5
+*.npy
+*.parquet
+*.zip
+*.tar.gz
+data/
+checkpoints/
+runs/
+
+# Secret environment files
+apikeys.env
+.env
+.env.*
+
+# Thumbs
+Thumbs.db

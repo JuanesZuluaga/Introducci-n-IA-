@@ -1,0 +1,9 @@
+{
+  "champion": "logistic_regression",
+  "cv_folds": 5,
+  "scoring": "accuracy",
+  "best_cv_accuracy": 0.9790640394088669,
+  "best_params": {
+    "model__C": 1.0
+  }
+}
